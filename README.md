@@ -1,70 +1,12 @@
-# U.S. ZIP Codes in GeoJSON
+# GeoJSON objects for California
 
-A collection of GeoJSON objects for each ZIP code in the United States, based on free shapefile data from census.gov.
+A collection of GeoJSON objects for the U.S. state of California, based on free shapefile data from census.gov.
 
 ## Contents
 
-Which states have GeoJSON data?
+This repo contains GeoJSON data for:
 
-- [ ] Alabama
-- [ ] Alaska
-- [ ] American Samoa
-- [ ] Arizona
-- [ ] Arkansas
-- [x] California
-- [ ] Colorado
-- [ ] Connecticut
-- [ ] Delaware
-- [ ] District of Columbia
-- [ ] Florida
-- [ ] Georgia
-- [ ] Guam
-- [ ] Hawaii
-- [ ] Idaho
-- [ ] Illinois
-- [ ] Indiana
-- [ ] Iowa
-- [ ] Kansas
-- [ ] Kentucky
-- [ ] Louisiana
-- [ ] Maine
-- [ ] Maryland
-- [ ] Marshall Islands
-- [ ] Massachusetts
-- [ ] Michigan
-- [ ] Micronesia
-- [ ] Minnesota
-- [ ] Mississippi
-- [ ] Missouri
-- [ ] Montana
-- [ ] Nebraska
-- [ ] Nevada
-- [ ] New Hampshire
-- [ ] New Jersey
-- [ ] New Mexico
-- [ ] New York
-- [ ] North Carolina
-- [ ] North Dakota
-- [ ] Northern Marianas
-- [ ] Ohio
-- [ ] Oklahoma
-- [ ] Oregon
-- [ ] Palau
-- [ ] Pennsylvania
-- [ ] Puerto Rico
-- [ ] Rhode Island
-- [ ] South Carolina
-- [ ] South Dakota
-- [ ] Tennessee
-- [ ] Texas
-- [ ] Utah
-- [ ] Vermont
-- [ ] Virginia
-- [ ] Virgin Islands
-- [ ] Washington
-- [ ] West Virginia
-- [ ] Wisconsin
-- [ ] Wyoming
+- ZIP codes
 
 ## Parsing data
 
